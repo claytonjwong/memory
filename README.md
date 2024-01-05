@@ -21,3 +21,19 @@ A - Da**t**e (ace is one)
 J - Diamond (jacks are the image of the suite)
 Q - Dean (queens use a rhyming word)
 K - Ding (kings use the word with "ing" in it)
+
+### Hearts
+
+A - Ha**t**
+2 - He**n**
+3 - Ha**m**
+4 - Hai**r**
+5 - Hai**l**
+6 - Ha**sh**
+7 - Hac**k**
+8 - Hoo**f**
+9 - Hoo**p**
+10 - Hou**s**e
+J - Heart
+Q - Halloween
+K - Hinge
