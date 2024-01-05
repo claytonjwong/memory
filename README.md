@@ -6,6 +6,24 @@
 
 ## Memorize 52 Cards
 
+Memorize the order of a shuffled 52-card deck:
+
+1. map each card to a word
+2. tell a story about 4 cards upon each of 13 body parts (clockwise)
+   * head
+   * right shoulder
+   * right elbow
+   * right wrist
+   * right hip
+   * right knee
+   * right ankle
+   * left ankle
+   * left knee
+   * left hip
+   * left wrist
+   * left elbow
+   * left shoulder
+
 ### Diamonds
 
 A - Da**t**e (ace is one)
