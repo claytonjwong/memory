@@ -37,3 +37,19 @@ A - Ha**t**
 J - Heart
 Q - Halloween
 K - Hinge
+
+### Spades
+
+A - Si**t**
+2 - Su**n**
+3 - Sa**m**
+4 - Sou**r**
+5 - Sea**l**
+6 - Sa**sh**
+7 - Sac**k**
+8 - Sa**f**e
+9 - Soa**p**
+10 - Sea**s**
+J - Spade
+Q - Spleen
+K - Sing
