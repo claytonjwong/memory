@@ -53,3 +53,19 @@ A - Si**t**
 J - Spade
 Q - Spleen
 K - Sing
+
+### Clubs
+
+A - Ca**t**
+2 - Ca**n**
+3 - Ca**m**
+4 - Ca**r**
+5 - Coa**l**
+6 - Ca**sh**
+7 - Ca**k**e
+8 - Ca**f**e
+9 - Ca**p**
+10 - Ca**s**e
+J - Club
+Q - Canteen
+K - King
